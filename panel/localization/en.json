@@ -1,0 +1,21 @@
+{
+    "pointOfSaleActualCash": "Actual cash",
+    "pointOfSaleCashier": "Cashier",
+    "pointOfSaleCode": "Code",
+    "pointOfSaleExpectedCash": "Expected cash",
+    "pointOfSaleNumber": "Number",
+    "pointOfSaleOpenedDate": "Opened date",
+    "pointOfSaleOpeningCash": "Opening cash",
+    "pointOfSaleOrder": "Order",
+    "pointOfSalePlace": "Place",
+    "pointOfSalePointOfSale": "Point of sale",
+    "pointOfSaleRegister": "Register",
+    "pointOfSaleRegisters": "Registers",
+    "pointOfSaleSession": "Register session",
+    "pointOfSaleSessions": "Register sessions",
+    "pointOfSaleStatus": "Status",
+    "pointOfSaleTotal": "Total",
+    "pointOfSaleTransactionDate": "Transaction date",
+    "pointOfSaleTransactionType": "Transaction type",
+    "pointOfSaleTransactions": "Transactions"
+}

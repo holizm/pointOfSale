@@ -1,0 +1,64 @@
+posRegisterStatus options
+    active
+    inactive
+    underMaintenance
+posSessionStatus options
+    open
+    closing
+    closed
+posTransactionType options
+    sale
+    return
+    exchange
+posTransactionStatus options
+    pending
+    completed
+    voided
+cashMovementType options
+    openingFloat
+    cashIn
+    cashOut
+    cashDrop
+posRegister
+    title
+    code
+    place optional
+    posRegisterStatus
+    unique code
+posSession
+    posRegister
+    cashier
+    openedDate
+    closedDate optional
+    openingCash realNumber
+    expectedCash realNumber optional
+    actualCash realNumber optional
+    posSessionStatus
+posTransaction
+    number
+    posSession
+    order
+    posTransactionType
+    posTransactionStatus
+    transactionDate
+    subtotal realNumber
+    discount realNumber optional
+    tax realNumber optional
+    total realNumber
+    currency
+    unique number
+posPayment
+    posTransaction
+    payment
+    amount realNumber
+posCashMovement
+    posSession
+    cashMovementType
+    amount realNumber
+    movementDate
+    reason optional
+posReceipt
+    posTransaction
+    receiptNumber
+    issuedDate
+    unique receiptNumber

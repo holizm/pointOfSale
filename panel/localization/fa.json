@@ -1,0 +1,21 @@
+{
+    "pointOfSaleActualCash": "وجه نقد واقعی",
+    "pointOfSaleCashier": "صندوقدار",
+    "pointOfSaleCode": "کد",
+    "pointOfSaleExpectedCash": "وجه نقد مورد انتظار",
+    "pointOfSaleNumber": "شماره",
+    "pointOfSaleOpenedDate": "زمان بازشدن",
+    "pointOfSaleOpeningCash": "وجه نقد آغازین",
+    "pointOfSaleOrder": "سفارش",
+    "pointOfSalePlace": "مکان",
+    "pointOfSalePointOfSale": "نقطه فروش",
+    "pointOfSaleRegister": "صندوق",
+    "pointOfSaleRegisters": "صندوق‌ها",
+    "pointOfSaleSession": "شیفت صندوق",
+    "pointOfSaleSessions": "شیفت‌های صندوق",
+    "pointOfSaleStatus": "وضعیت",
+    "pointOfSaleTotal": "مجموع",
+    "pointOfSaleTransactionDate": "تاریخ تراکنش",
+    "pointOfSaleTransactionType": "نوع تراکنش",
+    "pointOfSaleTransactions": "تراکنش‌ها"
+}
