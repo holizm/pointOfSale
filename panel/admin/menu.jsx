@@ -15,6 +15,7 @@ export default [
             },
         ],
         icon: 'pointOfSale',
+        path: '/pointOfSale',
         title: 'pointOfSalePointOfSale',
     },
 ]
