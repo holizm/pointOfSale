@@ -1,0 +1,29 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "actualCash": "Actual cash",
+        "cashier": "Cashier",
+        "code": "Code",
+        "expectedCash": "Expected cash",
+        "number": "Number",
+        "openedDate": "Opened date",
+        "openingCash": "Opening cash",
+        "order": "Order",
+        "place": "Place",
+        "pointOfSale": "Point of sale",
+        "register": "Register",
+        "registers": "Registers",
+        "session": "Register session",
+        "sessions": "Register sessions",
+        "status": "Status",
+        "total": "Total",
+        "transactionDate": "Transaction date",
+        "transactionType": "Transaction type",
+        "transactions": "Transactions"
+    },
+    "site": {
+        "receipt": "Receipt",
+        "total": "Total"
+    }
+}

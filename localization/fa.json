@@ -1,0 +1,29 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "actualCash": "وجه نقد واقعی",
+        "cashier": "صندوقدار",
+        "code": "کد",
+        "expectedCash": "وجه نقد مورد انتظار",
+        "number": "شماره",
+        "openedDate": "زمان بازشدن",
+        "openingCash": "وجه نقد آغازین",
+        "order": "سفارش",
+        "place": "مکان",
+        "pointOfSale": "نقطه فروش",
+        "register": "صندوق",
+        "registers": "صندوق‌ها",
+        "session": "شیفت صندوق",
+        "sessions": "شیفت‌های صندوق",
+        "status": "وضعیت",
+        "total": "مجموع",
+        "transactionDate": "تاریخ تراکنش",
+        "transactionType": "نوع تراکنش",
+        "transactions": "تراکنش‌ها"
+    },
+    "site": {
+        "receipt": "رسید",
+        "total": "مجموع"
+    }
+}
