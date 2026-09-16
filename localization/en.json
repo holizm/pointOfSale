@@ -3,22 +3,16 @@
         "total": "Total",
         "actualCash": "Actual cash",
         "cashier": "Cashier",
-        "code": "Code",
         "expectedCash": "Expected cash",
-        "number": "Number",
         "openedDate": "Opened date",
         "openingCash": "Opening cash",
-        "order": "Order",
-        "place": "Place",
         "pointOfSale": "Point of sale",
         "register": "Register",
         "registers": "Registers",
         "session": "Register session",
         "sessions": "Register sessions",
-        "status": "Status",
         "transactionDate": "Transaction date",
         "transactionType": "Transaction type",
-        "transactions": "Transactions",
         "receipt": "Receipt"
     }
 }
