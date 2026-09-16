@@ -22,7 +22,7 @@ const inputs = <>
             'inactive',
             'underMaintenance',
         ]}
-        placeholder='pointOfSaleStatus'
+        placeholder='stateMachinesState'
         property='posRegisterStatus'
         required
     />

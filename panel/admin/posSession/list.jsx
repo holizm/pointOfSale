@@ -10,7 +10,7 @@ const headers = <>
     <th>pointOfSaleOpenedDate</th>
     <th>pointOfSaleExpectedCash</th>
     <th>pointOfSaleActualCash</th>
-    <th>pointOfSaleStatus</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>

@@ -33,7 +33,7 @@ const inputs = <>
             'closing',
             'closed',
         ]}
-        placeholder='pointOfSaleStatus'
+        placeholder='stateMachinesState'
         property='posSessionStatus'
         required
     />
