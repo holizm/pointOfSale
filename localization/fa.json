@@ -1,7 +1,6 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
+        "total": "مجموع",
         "actualCash": "وجه نقد واقعی",
         "cashier": "صندوقدار",
         "code": "کد",
@@ -17,13 +16,9 @@
         "session": "شیفت صندوق",
         "sessions": "شیفت‌های صندوق",
         "status": "وضعیت",
-        "total": "مجموع",
         "transactionDate": "تاریخ تراکنش",
         "transactionType": "نوع تراکنش",
-        "transactions": "تراکنش‌ها"
-    },
-    "site": {
-        "receipt": "رسید",
-        "total": "مجموع"
+        "transactions": "تراکنش‌ها",
+        "receipt": "رسید"
     }
 }
