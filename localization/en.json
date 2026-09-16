@@ -12,7 +12,6 @@
         "session": "Register session",
         "sessions": "Register sessions",
         "transactionDate": "Transaction date",
-        "transactionType": "Transaction type",
-        "receipt": "Receipt"
+        "transactionType": "Transaction type"
     }
 }
