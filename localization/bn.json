@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "মোট",
+        "actualCash": "প্রকৃত নগদ",
+        "cashier": "ক্যাশিয়ার",
+        "expectedCash": "প্রত্যাশিত নগদ",
+        "openedDate": "খোলার তারিখ",
+        "openingCash": "প্রারম্ভিক নগদ",
+        "pointOfSale": "বিক্রয় কেন্দ্র",
+        "register": "ক্যাশ রেজিস্টার",
+        "registers": "ক্যাশ রেজিস্টারসমূহ",
+        "session": "রেজিস্টার শিফট",
+        "sessions": "রেজিস্টার শিফটসমূহ",
+        "transactionDate": "লেনদেনের তারিখ",
+        "transactionType": "লেনদেনের ধরন"
+    }
+}

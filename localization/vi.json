@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "Tổng cộng",
+        "actualCash": "Tiền mặt thực tế",
+        "cashier": "Thu ngân",
+        "expectedCash": "Tiền mặt dự kiến",
+        "openedDate": "Ngày mở ca",
+        "openingCash": "Tiền mặt đầu ca",
+        "pointOfSale": "Điểm bán hàng",
+        "register": "Máy tính tiền",
+        "registers": "Máy tính tiền",
+        "session": "Ca thu ngân",
+        "sessions": "Các ca thu ngân",
+        "transactionDate": "Ngày giao dịch",
+        "transactionType": "Loại giao dịch"
+    }
+}

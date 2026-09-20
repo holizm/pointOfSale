@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "Jumlah",
+        "actualCash": "Tunai sebenar",
+        "cashier": "Juruwang",
+        "expectedCash": "Tunai dijangka",
+        "openedDate": "Tarikh dibuka",
+        "openingCash": "Tunai pembukaan",
+        "pointOfSale": "Tempat jualan",
+        "register": "Daftar tunai",
+        "registers": "Daftar tunai",
+        "session": "Syif daftar tunai",
+        "sessions": "Syif daftar tunai",
+        "transactionDate": "Tarikh transaksi",
+        "transactionType": "Jenis transaksi"
+    }
+}

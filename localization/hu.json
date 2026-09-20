@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "Összesen",
+        "actualCash": "Tényleges készpénz",
+        "cashier": "Pénztáros",
+        "expectedCash": "Várt készpénz",
+        "openedDate": "Nyitás dátuma",
+        "openingCash": "Nyitó készpénz",
+        "pointOfSale": "Értékesítési pont",
+        "register": "Pénztár",
+        "registers": "Pénztárak",
+        "session": "Pénztári műszak",
+        "sessions": "Pénztári műszakok",
+        "transactionDate": "Tranzakció dátuma",
+        "transactionType": "Tranzakció típusa"
+    }
+}

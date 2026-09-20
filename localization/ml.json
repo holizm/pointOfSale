@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "ആകെ",
+        "actualCash": "യഥാർത്ഥ പണം",
+        "cashier": "കാഷ്യർ",
+        "expectedCash": "പ്രതീക്ഷിക്കുന്ന പണം",
+        "openedDate": "തുറന്ന തീയതി",
+        "openingCash": "തുടക്ക പണം",
+        "pointOfSale": "വിൽപ്പന കേന്ദ്രം",
+        "register": "കാഷ് രജിസ്റ്റർ",
+        "registers": "കാഷ് രജിസ്റ്ററുകൾ",
+        "session": "രജിസ്റ്റർ ഷിഫ്റ്റ്",
+        "sessions": "രജിസ്റ്റർ ഷിഫ്റ്റുകൾ",
+        "transactionDate": "ഇടപാട് തീയതി",
+        "transactionType": "ഇടപാട് തരം"
+    }
+}

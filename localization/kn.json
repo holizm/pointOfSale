@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "ಒಟ್ಟು",
+        "actualCash": "ವಾಸ್ತವ ನಗದು",
+        "cashier": "ಕ್ಯಾಷಿಯರ್",
+        "expectedCash": "ನಿರೀಕ್ಷಿತ ನಗದು",
+        "openedDate": "ತೆರೆದ ದಿನಾಂಕ",
+        "openingCash": "ಆರಂಭಿಕ ನಗದು",
+        "pointOfSale": "ಮಾರಾಟ ಕೇಂದ್ರ",
+        "register": "ನಗದು ರಿಜಿಸ್ಟರ್",
+        "registers": "ನಗದು ರಿಜಿಸ್ಟರ್‌ಗಳು",
+        "session": "ರಿಜಿಸ್ಟರ್ ಪಾಳಿ",
+        "sessions": "ರಿಜಿಸ್ಟರ್ ಪಾಳಿಗಳು",
+        "transactionDate": "ವಹಿವಾಟು ದಿನಾಂಕ",
+        "transactionType": "ವಹಿವಾಟು ವಿಧ"
+    }
+}

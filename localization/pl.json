@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "Razem",
+        "actualCash": "Rzeczywista gotówka",
+        "cashier": "Kasjer",
+        "expectedCash": "Oczekiwana gotówka",
+        "openedDate": "Data otwarcia",
+        "openingCash": "Gotówka początkowa",
+        "pointOfSale": "Punkt sprzedaży",
+        "register": "Kasa",
+        "registers": "Kasy",
+        "session": "Zmiana kasowa",
+        "sessions": "Zmiany kasowe",
+        "transactionDate": "Data transakcji",
+        "transactionType": "Typ transakcji"
+    }
+}

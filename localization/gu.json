@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "કુલ",
+        "actualCash": "વાસ્તવિક રોકડ",
+        "cashier": "કૅશિયર",
+        "expectedCash": "અપેક્ષિત રોકડ",
+        "openedDate": "ખોલ્યાની તારીખ",
+        "openingCash": "પ્રારંભિક રોકડ",
+        "pointOfSale": "વેચાણ કેન્દ્ર",
+        "register": "કૅશ રજિસ્ટર",
+        "registers": "કૅશ રજિસ્ટરો",
+        "session": "રજિસ્ટર શિફ્ટ",
+        "sessions": "રજિસ્ટર શિફ્ટો",
+        "transactionDate": "વ્યવહાર તારીખ",
+        "transactionType": "વ્યવહાર પ્રકાર"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "סה״כ",
+        "actualCash": "מזומן בפועל",
+        "cashier": "קופאי",
+        "expectedCash": "מזומן צפוי",
+        "openedDate": "תאריך פתיחה",
+        "openingCash": "מזומן בתחילת משמרת",
+        "pointOfSale": "נקודת מכירה",
+        "register": "קופה",
+        "registers": "קופות",
+        "session": "משמרת קופה",
+        "sessions": "משמרות קופה",
+        "transactionDate": "תאריך עסקה",
+        "transactionType": "סוג עסקה"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "Итого",
+        "actualCash": "Фактическая наличность",
+        "cashier": "Кассир",
+        "expectedCash": "Ожидаемая наличность",
+        "openedDate": "Дата открытия",
+        "openingCash": "Начальная наличность",
+        "pointOfSale": "Точка продаж",
+        "register": "Касса",
+        "registers": "Кассы",
+        "session": "Кассовая смена",
+        "sessions": "Кассовые смены",
+        "transactionDate": "Дата транзакции",
+        "transactionType": "Тип транзакции"
+    }
+}

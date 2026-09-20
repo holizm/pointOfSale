@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "Celkem",
+        "actualCash": "Skutečná hotovost",
+        "cashier": "Pokladní",
+        "expectedCash": "Očekávaná hotovost",
+        "openedDate": "Datum otevření",
+        "openingCash": "Počáteční hotovost",
+        "pointOfSale": "Prodejní místo",
+        "register": "Pokladna",
+        "registers": "Pokladny",
+        "session": "Pokladní směna",
+        "sessions": "Pokladní směny",
+        "transactionDate": "Datum transakce",
+        "transactionType": "Typ transakce"
+    }
+}

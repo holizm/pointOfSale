@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "I alt",
+        "actualCash": "Faktisk kontantbeholdning",
+        "cashier": "Kassemedarbejder",
+        "expectedCash": "Forventet kontantbeholdning",
+        "openedDate": "Åbningsdato",
+        "openingCash": "Startbeholdning",
+        "pointOfSale": "Salgssted",
+        "register": "Kasse",
+        "registers": "Kasser",
+        "session": "Kassevagt",
+        "sessions": "Kassevagter",
+        "transactionDate": "Transaktionsdato",
+        "transactionType": "Transaktionstype"
+    }
+}

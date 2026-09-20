@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "Toplam",
+        "actualCash": "Fiilî nakit",
+        "cashier": "Kasiyer",
+        "expectedCash": "Beklenen nakit",
+        "openedDate": "Açılış tarihi",
+        "openingCash": "Açılış nakdi",
+        "pointOfSale": "Satış noktası",
+        "register": "Kasa",
+        "registers": "Kasalar",
+        "session": "Kasa vardiyası",
+        "sessions": "Kasa vardiyaları",
+        "transactionDate": "İşlem tarihi",
+        "transactionType": "İşlem türü"
+    }
+}

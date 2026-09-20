@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "Totaal",
+        "actualCash": "Werklike kontant",
+        "cashier": "Kassier",
+        "expectedCash": "Verwagte kontant",
+        "openedDate": "Openingsdatum",
+        "openingCash": "Beginkontant",
+        "pointOfSale": "Verkooppunt",
+        "register": "Kasregister",
+        "registers": "Kasregisters",
+        "session": "Kasregisterskof",
+        "sessions": "Kasregisterskofte",
+        "transactionDate": "Transaksiedatum",
+        "transactionType": "Transaksietipe"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "Gesamt",
+        "actualCash": "Tatsächlicher Bargeldbestand",
+        "cashier": "Kassierer",
+        "expectedCash": "Erwarteter Bargeldbestand",
+        "openedDate": "Öffnungsdatum",
+        "openingCash": "Anfangsbestand",
+        "pointOfSale": "Verkaufsstelle",
+        "register": "Kasse",
+        "registers": "Kassen",
+        "session": "Kassensitzung",
+        "sessions": "Kassensitzungen",
+        "transactionDate": "Transaktionsdatum",
+        "transactionType": "Transaktionsart"
+    }
+}

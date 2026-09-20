@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "Totalt",
+        "actualCash": "Faktisk kontantbelopp",
+        "cashier": "Kassör",
+        "expectedCash": "Förväntat kontantbelopp",
+        "openedDate": "Öppningsdatum",
+        "openingCash": "Ingående kassa",
+        "pointOfSale": "Försäljningsställe",
+        "register": "Kassa",
+        "registers": "Kassor",
+        "session": "Kassapass",
+        "sessions": "Kassapass",
+        "transactionDate": "Transaktionsdatum",
+        "transactionType": "Transaktionstyp"
+    }
+}

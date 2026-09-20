@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "Totaal",
+        "actualCash": "Werkelijk kasgeld",
+        "cashier": "Kassamedewerker",
+        "expectedCash": "Verwacht kasgeld",
+        "openedDate": "Openingsdatum",
+        "openingCash": "Beginkasgeld",
+        "pointOfSale": "Verkooppunt",
+        "register": "Kassa",
+        "registers": "Kassa's",
+        "session": "Kassasessie",
+        "sessions": "Kassasessies",
+        "transactionDate": "Transactiedatum",
+        "transactionType": "Transactietype"
+    }
+}

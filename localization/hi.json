@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "कुल",
+        "actualCash": "वास्तविक नकदी",
+        "cashier": "कैशियर",
+        "expectedCash": "अपेक्षित नकदी",
+        "openedDate": "खोलने की तिथि",
+        "openingCash": "आरंभिक नकदी",
+        "pointOfSale": "बिक्री केंद्र",
+        "register": "कैश रजिस्टर",
+        "registers": "कैश रजिस्टर",
+        "session": "रजिस्टर शिफ़्ट",
+        "sessions": "रजिस्टर शिफ़्ट",
+        "transactionDate": "लेन-देन की तिथि",
+        "transactionType": "लेन-देन का प्रकार"
+    }
+}

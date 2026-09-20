@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "รวม",
+        "actualCash": "เงินสดจริง",
+        "cashier": "แคชเชียร์",
+        "expectedCash": "เงินสดที่คาดไว้",
+        "openedDate": "วันที่เปิดกะ",
+        "openingCash": "เงินสดเปิดกะ",
+        "pointOfSale": "จุดขาย",
+        "register": "เครื่องบันทึกเงินสด",
+        "registers": "เครื่องบันทึกเงินสด",
+        "session": "กะเครื่องบันทึกเงินสด",
+        "sessions": "กะเครื่องบันทึกเงินสด",
+        "transactionDate": "วันที่ทำธุรกรรม",
+        "transactionType": "ประเภทธุรกรรม"
+    }
+}

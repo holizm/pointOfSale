@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "ጠቅላላ",
+        "actualCash": "ትክክለኛ ጥሬ ገንዘብ",
+        "cashier": "ገንዘብ ተቀባይ",
+        "expectedCash": "የሚጠበቅ ጥሬ ገንዘብ",
+        "openedDate": "የተከፈተበት ቀን",
+        "openingCash": "የመክፈቻ ጥሬ ገንዘብ",
+        "pointOfSale": "የሽያጭ ነጥብ",
+        "register": "የገንዘብ መመዝገቢያ",
+        "registers": "የገንዘብ መመዝገቢያዎች",
+        "session": "የመመዝገቢያ ፈረቃ",
+        "sessions": "የመመዝገቢያ ፈረቃዎች",
+        "transactionDate": "የግብይት ቀን",
+        "transactionType": "የግብይት ዓይነት"
+    }
+}

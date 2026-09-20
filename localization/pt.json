@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "Total",
+        "actualCash": "Numerário real",
+        "cashier": "Operador de caixa",
+        "expectedCash": "Numerário esperado",
+        "openedDate": "Data de abertura",
+        "openingCash": "Fundo de caixa inicial",
+        "pointOfSale": "Ponto de venda",
+        "register": "Caixa registadora",
+        "registers": "Caixas registadoras",
+        "session": "Turno de caixa",
+        "sessions": "Turnos de caixa",
+        "transactionDate": "Data da transação",
+        "transactionType": "Tipo de transação"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "common": {
+        "total": "Totale",
+        "actualCash": "Contanti effettivi",
+        "cashier": "Cassiere",
+        "expectedCash": "Contanti previsti",
+        "openedDate": "Data di apertura",
+        "openingCash": "Fondo cassa iniziale",
+        "pointOfSale": "Punto vendita",
+        "register": "Cassa",
+        "registers": "Casse",
+        "session": "Sessione di cassa",
+        "sessions": "Sessioni di cassa",
+        "transactionDate": "Data della transazione",
+        "transactionType": "Tipo di transazione"
+    }
+}
