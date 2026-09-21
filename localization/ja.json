@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "実際の現金残高",
+        "cashMovement": "現金移動",
+        "cashMovements": "現金移動",
         "cashier": "レジ担当者",
         "expectedCash": "想定現金残高",
         "openingCash": "開始時現金",
+        "payment": "支払い",
+        "payments": "支払い",
         "pointOfSale": "販売時点情報管理",
+        "receipt": "領収書",
+        "receipts": "領収書",
         "register": "レジ",
         "registers": "レジ",
         "session": "レジシフト",
-        "sessions": "レジシフト"
+        "sessions": "レジシフト",
+        "transaction": "取引",
+        "transactions": "取引"
     }
 }

@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "အမှန်တကယ် ငွေသား",
+        "cashMovement": "ငွေသား လှုပ်ရှားမှု",
+        "cashMovements": "ငွေသား လှုပ်ရှားမှုများ",
         "cashier": "ငွေကိုင်",
         "expectedCash": "မျှော်မှန်း ငွေသား",
         "openingCash": "စဖွင့် ငွေသား",
+        "payment": "ငွေပေးချေမှု",
+        "payments": "ငွေပေးချေမှုများ",
         "pointOfSale": "အရောင်းကောင်တာ",
+        "receipt": "ပြေစာ",
+        "receipts": "ပြေစာများ",
         "register": "ငွေရှင်းစက်",
         "registers": "ငွေရှင်းစက်များ",
         "session": "ငွေရှင်းအဆိုင်း",
-        "sessions": "ငွေရှင်းအဆိုင်းများ"
+        "sessions": "ငွေရှင်းအဆိုင်းများ",
+        "transaction": "ငွေလွှဲလုပ်ငန်း",
+        "transactions": "ငွေလွှဲမှုများ"
     }
 }

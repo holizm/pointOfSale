@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "प्रत्यक्ष रोकड",
+        "cashMovement": "रोख हालचाल",
+        "cashMovements": "रोख हालचाली",
         "cashier": "रोखपाल",
         "expectedCash": "अपेक्षित रोकड",
         "openingCash": "आरंभिक रोकड",
+        "payment": "भुगतान",
+        "payments": "देयके",
         "pointOfSale": "विक्री केंद्र",
+        "receipt": "पावती",
+        "receipts": "पावत्या",
         "register": "रोख नोंदणी यंत्र",
         "registers": "रोख नोंदणी यंत्रे",
         "session": "रोख नोंदणी पाळी",
-        "sessions": "रोख नोंदणी पाळ्या"
+        "sessions": "रोख नोंदणी पाळ्या",
+        "transaction": "व्यवहार",
+        "transactions": "व्यवहार"
     }
 }

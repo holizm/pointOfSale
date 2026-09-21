@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "ትክክለኛ ጥሬ ገንዘብ",
+        "cashMovement": "የጥሬ ገንዘብ እንቅስቃሴ",
+        "cashMovements": "የጥሬ ገንዘብ እንቅስቃሴዎች",
         "cashier": "ገንዘብ ተቀባይ",
         "expectedCash": "የሚጠበቅ ጥሬ ገንዘብ",
         "openingCash": "የመክፈቻ ጥሬ ገንዘብ",
+        "payment": "ክፍያ",
+        "payments": "ክፍያዎች",
         "pointOfSale": "የሽያጭ ነጥብ",
+        "receipt": "ደረሰኝ",
+        "receipts": "ደረሰኞች",
         "register": "የገንዘብ መመዝገቢያ",
         "registers": "የገንዘብ መመዝገቢያዎች",
         "session": "የመመዝገቢያ ፈረቃ",
-        "sessions": "የመመዝገቢያ ፈረቃዎች"
+        "sessions": "የመመዝገቢያ ፈረቃዎች",
+        "transaction": "ግብይት",
+        "transactions": "ግብይቶች"
     }
 }

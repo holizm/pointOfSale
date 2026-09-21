@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Ainihin kuɗin hannu",
+        "cashMovement": "Motsin kuɗi",
+        "cashMovements": "Motsin kuɗi",
         "cashier": "Ma’aji",
         "expectedCash": "Kuɗin hannu da ake sa ran samu",
         "openingCash": "Kuɗin fara aiki",
+        "payment": "Biyan kuɗi",
+        "payments": "Biyan kuɗi",
         "pointOfSale": "Wurin sayarwa",
+        "receipt": "Rasit",
+        "receipts": "Rasitoci",
         "register": "Na’urar kuɗi",
         "registers": "Na’urorin kuɗi",
         "session": "Zagayen aiki na na’urar kuɗi",
-        "sessions": "Zagayen aiki na na’urar kuɗi"
+        "sessions": "Zagayen aiki na na’urar kuɗi",
+        "transaction": "Mu’amala",
+        "transactions": "Mu'amaloli"
     }
 }

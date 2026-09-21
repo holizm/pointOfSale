@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Uang tunai aktual",
+        "cashMovement": "Pergerakan kas",
+        "cashMovements": "Pergerakan kas",
         "cashier": "Kasir",
         "expectedCash": "Uang tunai yang diharapkan",
         "openingCash": "Uang tunai awal",
+        "payment": "Pembayaran",
+        "payments": "Pembayaran",
         "pointOfSale": "Titik penjualan",
+        "receipt": "Tanda terima",
+        "receipts": "Tanda terima",
         "register": "Mesin kasir",
         "registers": "Mesin kasir",
         "session": "Sesi kasir",
-        "sessions": "Sesi kasir"
+        "sessions": "Sesi kasir",
+        "transaction": "Transaksi",
+        "transactions": "Transaksi"
     }
 }

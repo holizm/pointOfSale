@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "เงินสดจริง",
+        "cashMovement": "การเคลื่อนไหวเงินสด",
+        "cashMovements": "การเคลื่อนไหวเงินสด",
         "cashier": "แคชเชียร์",
         "expectedCash": "เงินสดที่คาดไว้",
         "openingCash": "เงินสดเปิดกะ",
+        "payment": "การชำระเงิน",
+        "payments": "การชำระเงิน",
         "pointOfSale": "จุดขาย",
+        "receipt": "ใบเสร็จ",
+        "receipts": "ใบเสร็จ",
         "register": "เครื่องบันทึกเงินสด",
         "registers": "เครื่องบันทึกเงินสด",
         "session": "กะเครื่องบันทึกเงินสด",
-        "sessions": "กะเครื่องบันทึกเงินสด"
+        "sessions": "กะเครื่องบันทึกเงินสด",
+        "transaction": "ธุรกรรม",
+        "transactions": "ธุรกรรม"
     }
 }

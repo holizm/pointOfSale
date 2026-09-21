@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Werkelijk kasgeld",
+        "cashMovement": "Kasbeweging",
+        "cashMovements": "Kasbewegingen",
         "cashier": "Kassamedewerker",
         "expectedCash": "Verwacht kasgeld",
         "openingCash": "Beginkasgeld",
+        "payment": "Betaling",
+        "payments": "Betalingen",
         "pointOfSale": "Verkooppunt",
+        "receipt": "Ontvangstbewijs",
+        "receipts": "Betalingsbewijzen",
         "register": "Kassa",
         "registers": "Kassa's",
         "session": "Kassasessie",
-        "sessions": "Kassasessies"
+        "sessions": "Kassasessies",
+        "transaction": "Transactie",
+        "transactions": "Transacties"
     }
 }

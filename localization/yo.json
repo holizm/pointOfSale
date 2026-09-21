@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Owó gidi",
+        "cashMovement": "Ìṣípò owó",
+        "cashMovements": "Àwọn ìṣípò owó",
         "cashier": "Olùtọ́jú owó",
         "expectedCash": "Owó tí a retí",
         "openingCash": "Owó ìbẹ̀rẹ̀",
+        "payment": "Ìsanwó",
+        "payments": "Àwọn ìsanwó",
         "pointOfSale": "Ibi títà",
+        "receipt": "Ìwé ẹ̀rí",
+        "receipts": "Àwọn ìwé ẹ̀rí ìsanwó",
         "register": "Ẹ̀rọ ìṣírò owó",
         "registers": "Àwọn ẹ̀rọ ìṣírò owó",
         "session": "Àkókò iṣẹ́ ẹ̀rọ owó",
-        "sessions": "Àwọn àkókò iṣẹ́ ẹ̀rọ owó"
+        "sessions": "Àwọn àkókò iṣẹ́ ẹ̀rọ owó",
+        "transaction": "Ìdúnàádúrà",
+        "transactions": "Àwọn ìṣòwò"
     }
 }

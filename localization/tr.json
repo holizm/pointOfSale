@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Fiilî nakit",
+        "cashMovement": "Nakit hareketi",
+        "cashMovements": "Nakit hareketleri",
         "cashier": "Kasiyer",
         "expectedCash": "Beklenen nakit",
         "openingCash": "Açılış nakdi",
+        "payment": "Ödeme",
+        "payments": "Ödemeler",
         "pointOfSale": "Satış noktası",
+        "receipt": "Makbuz",
+        "receipts": "Makbuzlar",
         "register": "Kasa",
         "registers": "Kasalar",
         "session": "Kasa vardiyası",
-        "sessions": "Kasa vardiyaları"
+        "sessions": "Kasa vardiyaları",
+        "transaction": "İşlem",
+        "transactions": "İşlemler"
     }
 }

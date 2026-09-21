@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Stvarna gotovina",
+        "cashMovement": "Kretanje gotovine",
+        "cashMovements": "Kretanja gotovine",
         "cashier": "Blagajnik",
         "expectedCash": "Očekivana gotovina",
         "openingCash": "Početna gotovina",
+        "payment": "Plaćanje",
+        "payments": "Plaćanja",
         "pointOfSale": "Prodajno mjesto",
+        "receipt": "Potvrda",
+        "receipts": "Potvrde",
         "register": "Blagajna",
         "registers": "Blagajne",
         "session": "Smjena blagajne",
-        "sessions": "Smjene blagajne"
+        "sessions": "Smjene blagajne",
+        "transaction": "Transakcija",
+        "transactions": "Transakcije"
     }
 }

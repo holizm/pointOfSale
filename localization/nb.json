@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Faktisk kontantbeholdning",
+        "cashMovement": "Kontantbevegelse",
+        "cashMovements": "Kontantbevegelser",
         "cashier": "Kasserer",
         "expectedCash": "Forventet kontantbeholdning",
         "openingCash": "Inngående kasse",
+        "payment": "Betaling",
+        "payments": "Betalinger",
         "pointOfSale": "Utsalgssted",
+        "receipt": "Kvittering",
+        "receipts": "Kvitteringer",
         "register": "Kasse",
         "registers": "Kasser",
         "session": "Kassaskift",
-        "sessions": "Kassaskift"
+        "sessions": "Kassaskift",
+        "transaction": "Transaksjon",
+        "transactions": "Transaksjoner"
     }
 }

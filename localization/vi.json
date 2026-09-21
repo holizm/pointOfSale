@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Tiền mặt thực tế",
+        "cashMovement": "Biến động tiền mặt",
+        "cashMovements": "Các biến động tiền mặt",
         "cashier": "Thu ngân",
         "expectedCash": "Tiền mặt dự kiến",
         "openingCash": "Tiền mặt đầu ca",
+        "payment": "Thanh toán",
+        "payments": "Các khoản thanh toán",
         "pointOfSale": "Điểm bán hàng",
+        "receipt": "Biên nhận",
+        "receipts": "Biên lai",
         "register": "Máy tính tiền",
         "registers": "Máy tính tiền",
         "session": "Ca thu ngân",
-        "sessions": "Các ca thu ngân"
+        "sessions": "Các ca thu ngân",
+        "transaction": "Giao dịch",
+        "transactions": "Giao dịch"
     }
 }

@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Werklike kontant",
+        "cashMovement": "Kontantbeweging",
+        "cashMovements": "Kontantbewegings",
         "cashier": "Kassier",
         "expectedCash": "Verwagte kontant",
         "openingCash": "Beginkontant",
+        "payment": "Betaling",
+        "payments": "Betalings",
         "pointOfSale": "Verkooppunt",
+        "receipt": "Kwitansie",
+        "receipts": "Kwitansies",
         "register": "Kasregister",
         "registers": "Kasregisters",
         "session": "Kasregisterskof",
-        "sessions": "Kasregisterskofte"
+        "sessions": "Kasregisterskofte",
+        "transaction": "Transaksie",
+        "transactions": "Transaksies"
     }
 }

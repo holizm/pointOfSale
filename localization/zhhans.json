@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "实际现金",
+        "cashMovement": "现金变动",
+        "cashMovements": "现金变动",
         "cashier": "收银员",
         "expectedCash": "应有现金",
         "openingCash": "开班现金",
+        "payment": "付款",
+        "payments": "付款",
         "pointOfSale": "销售点",
+        "receipt": "收据",
+        "receipts": "收据",
         "register": "收银机",
         "registers": "收银机",
         "session": "收银班次",
-        "sessions": "收银班次"
+        "sessions": "收银班次",
+        "transaction": "交易",
+        "transactions": "交易"
     }
 }

@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Πραγματικά μετρητά",
+        "cashMovement": "Κίνηση μετρητών",
+        "cashMovements": "Κινήσεις μετρητών",
         "cashier": "Ταμίας",
         "expectedCash": "Αναμενόμενα μετρητά",
         "openingCash": "Αρχικό ταμείο",
+        "payment": "Πληρωμή",
+        "payments": "Πληρωμές",
         "pointOfSale": "Σημείο πώλησης",
+        "receipt": "Απόδειξη",
+        "receipts": "Αποδείξεις",
         "register": "Ταμείο",
         "registers": "Ταμεία",
         "session": "Βάρδια ταμείου",
-        "sessions": "Βάρδιες ταμείου"
+        "sessions": "Βάρδιες ταμείου",
+        "transaction": "Συναλλαγή",
+        "transactions": "Συναλλαγές"
     }
 }

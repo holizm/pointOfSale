@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "اصل نقد رقم",
+        "cashMovement": "نقد حرکت",
+        "cashMovements": "نقد حرکات",
         "cashier": "کیشیئر",
         "expectedCash": "متوقع نقد رقم",
         "openingCash": "ابتدائی نقد رقم",
+        "payment": "ادائیگی",
+        "payments": "ادائیگیاں",
         "pointOfSale": "فروخت کا مقام",
+        "receipt": "رسید",
+        "receipts": "رسیدیں",
         "register": "کیش رجسٹر",
         "registers": "کیش رجسٹرز",
         "session": "رجسٹر شفٹ",
-        "sessions": "رجسٹر شفٹس"
+        "sessions": "رجسٹر شفٹس",
+        "transaction": "لین دین",
+        "transactions": "لین دین"
     }
 }

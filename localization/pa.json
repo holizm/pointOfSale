@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "ਅਸਲ ਨਕਦ",
+        "cashMovement": "ਨਕਦੀ ਗਤੀਵਿਧੀ",
+        "cashMovements": "ਨਕਦੀ ਗਤੀਵਿਧੀਆਂ",
         "cashier": "ਕੈਸ਼ੀਅਰ",
         "expectedCash": "ਉਮੀਦ ਕੀਤੀ ਨਕਦ ਰਕਮ",
         "openingCash": "ਸ਼ੁਰੂਆਤੀ ਨਕਦ",
+        "payment": "ਭੁਗਤਾਨ",
+        "payments": "ਭੁਗਤਾਨ",
         "pointOfSale": "ਵਿਕਰੀ ਕੇਂਦਰ",
+        "receipt": "ਰਸੀਦ",
+        "receipts": "ਰਸੀਦਾਂ",
         "register": "ਕੈਸ਼ ਰਜਿਸਟਰ",
         "registers": "ਕੈਸ਼ ਰਜਿਸਟਰ",
         "session": "ਰਜਿਸਟਰ ਸ਼ਿਫਟ",
-        "sessions": "ਰਜਿਸਟਰ ਸ਼ਿਫਟਾਂ"
+        "sessions": "ਰਜਿਸਟਰ ਸ਼ਿਫਟਾਂ",
+        "transaction": "ਲੈਣ-ਦੇਣ",
+        "transactions": "ਲੈਣ-ਦੇਣ"
     }
 }

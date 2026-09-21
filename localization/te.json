@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "వాస్తవ నగదు",
+        "cashMovement": "నగదు కదలిక",
+        "cashMovements": "నగదు కదలికలు",
         "cashier": "క్యాషియర్",
         "expectedCash": "అంచనా నగదు",
         "openingCash": "ప్రారంభ నగదు",
+        "payment": "చెల్లింపు",
+        "payments": "చెల్లింపులు",
         "pointOfSale": "విక్రయ కేంద్రం",
+        "receipt": "రసీదు",
+        "receipts": "రసీదులు",
         "register": "నగదు రిజిస్టర్",
         "registers": "నగదు రిజిస్టర్లు",
         "session": "రిజిస్టర్ షిఫ్ట్",
-        "sessions": "రిజిస్టర్ షిఫ్ట్‌లు"
+        "sessions": "రిజిస్టర్ షిఫ్ట్‌లు",
+        "transaction": "లావాదేవీ",
+        "transactions": "లావాదేవీలు"
     }
 }

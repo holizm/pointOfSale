@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "യഥാർത്ഥ പണം",
+        "cashMovement": "പണ നീക്കം",
+        "cashMovements": "പണ നീക്കങ്ങൾ",
         "cashier": "കാഷ്യർ",
         "expectedCash": "പ്രതീക്ഷിക്കുന്ന പണം",
         "openingCash": "തുടക്ക പണം",
+        "payment": "പണമടയ്ക്കൽ",
+        "payments": "പണമടയ്ക്കലുകൾ",
         "pointOfSale": "വിൽപ്പന കേന്ദ്രം",
+        "receipt": "രസീത്",
+        "receipts": "രസീതുകൾ",
         "register": "കാഷ് രജിസ്റ്റർ",
         "registers": "കാഷ് രജിസ്റ്ററുകൾ",
         "session": "രജിസ്റ്റർ ഷിഫ്റ്റ്",
-        "sessions": "രജിസ്റ്റർ ഷിഫ്റ്റുകൾ"
+        "sessions": "രജിസ്റ്റർ ഷിഫ്റ്റുകൾ",
+        "transaction": "ഇടപാട്",
+        "transactions": "ഇടപാടുകൾ"
     }
 }

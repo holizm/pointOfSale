@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "실제 현금",
+        "cashMovement": "현금 이동",
+        "cashMovements": "현금 이동",
         "cashier": "계산원",
         "expectedCash": "예상 현금",
         "openingCash": "시작 현금",
+        "payment": "결제",
+        "payments": "결제",
         "pointOfSale": "판매 시점 관리",
+        "receipt": "영수증",
+        "receipts": "영수증",
         "register": "금전 등록기",
         "registers": "금전 등록기",
         "session": "계산대 근무 세션",
-        "sessions": "계산대 근무 세션"
+        "sessions": "계산대 근무 세션",
+        "transaction": "거래",
+        "transactions": "거래"
     }
 }

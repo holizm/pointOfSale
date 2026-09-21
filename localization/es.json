@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Efectivo real",
+        "cashMovement": "Movimiento de efectivo",
+        "cashMovements": "Movimientos de efectivo",
         "cashier": "Cajero",
         "expectedCash": "Efectivo esperado",
         "openingCash": "Efectivo inicial",
+        "payment": "Pago",
+        "payments": "Pagos",
         "pointOfSale": "Punto de venta",
+        "receipt": "Recibo",
+        "receipts": "Recibos",
         "register": "Caja registradora",
         "registers": "Cajas registradoras",
         "session": "Turno de caja",
-        "sessions": "Turnos de caja"
+        "sessions": "Turnos de caja",
+        "transaction": "Transacción",
+        "transactions": "Transacciones"
     }
 }

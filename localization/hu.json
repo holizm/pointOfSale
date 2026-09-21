@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Tényleges készpénz",
+        "cashMovement": "Készpénzmozgás",
+        "cashMovements": "Készpénzmozgások",
         "cashier": "Pénztáros",
         "expectedCash": "Várt készpénz",
         "openingCash": "Nyitó készpénz",
+        "payment": "Fizetés",
+        "payments": "Fizetések",
         "pointOfSale": "Értékesítési pont",
+        "receipt": "Nyugta",
+        "receipts": "Bizonylatok",
         "register": "Pénztár",
         "registers": "Pénztárak",
         "session": "Pénztári műszak",
-        "sessions": "Pénztári műszakok"
+        "sessions": "Pénztári műszakok",
+        "transaction": "Tranzakció",
+        "transactions": "Tranzakciók"
     }
 }

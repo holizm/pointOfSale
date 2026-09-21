@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Numerar efectiv",
+        "cashMovement": "Mișcare de numerar",
+        "cashMovements": "Mișcări de numerar",
         "cashier": "Casier",
         "expectedCash": "Numerar estimat",
         "openingCash": "Numerar inițial",
+        "payment": "Plată",
+        "payments": "Plăți",
         "pointOfSale": "Punct de vânzare",
+        "receipt": "Chitanță",
+        "receipts": "Chitanțe",
         "register": "Casă de marcat",
         "registers": "Case de marcat",
         "session": "Tură de casă",
-        "sessions": "Ture de casă"
+        "sessions": "Ture de casă",
+        "transaction": "Tranzacție",
+        "transactions": "Tranzacții"
     }
 }

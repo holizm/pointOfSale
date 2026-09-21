@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Aktuwal na cash",
+        "cashMovement": "Galaw ng pera",
+        "cashMovements": "Mga galaw ng pera",
         "cashier": "Kahera",
         "expectedCash": "Inaasahang cash",
         "openingCash": "Panimulang cash",
+        "payment": "Bayad",
+        "payments": "Mga bayad",
         "pointOfSale": "Punto ng bentahan",
+        "receipt": "Resibo",
+        "receipts": "Mga resibo",
         "register": "Cash register",
         "registers": "Mga cash register",
         "session": "Shift ng cash register",
-        "sessions": "Mga shift ng cash register"
+        "sessions": "Mga shift ng cash register",
+        "transaction": "Transaksyon",
+        "transactions": "Mga transaksyon"
     }
 }

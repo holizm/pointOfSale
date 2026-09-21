@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Tunai sebenar",
+        "cashMovement": "Pergerakan tunai",
+        "cashMovements": "Pergerakan tunai",
         "cashier": "Juruwang",
         "expectedCash": "Tunai dijangka",
         "openingCash": "Tunai pembukaan",
+        "payment": "Pembayaran",
+        "payments": "Pembayaran",
         "pointOfSale": "Tempat jualan",
+        "receipt": "Resit",
+        "receipts": "Resit",
         "register": "Daftar tunai",
         "registers": "Daftar tunai",
         "session": "Syif daftar tunai",
-        "sessions": "Syif daftar tunai"
+        "sessions": "Syif daftar tunai",
+        "transaction": "Transaksi",
+        "transactions": "Transaksi"
     }
 }

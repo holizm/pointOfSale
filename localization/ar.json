@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "النقد الفعلي",
+        "cashMovement": "حركة نقدية",
+        "cashMovements": "حركات نقدية",
         "cashier": "أمين الصندوق",
         "expectedCash": "النقد المتوقع",
         "openingCash": "النقد الافتتاحي",
+        "payment": "الدفع",
+        "payments": "مدفوعات",
         "pointOfSale": "نقطة البيع",
+        "receipt": "إيصال",
+        "receipts": "الإيصالات",
         "register": "صندوق البيع",
         "registers": "صناديق البيع",
         "session": "وردية الصندوق",
-        "sessions": "ورديات الصندوق"
+        "sessions": "ورديات الصندوق",
+        "transaction": "معاملة",
+        "transactions": "المعاملات"
     }
 }

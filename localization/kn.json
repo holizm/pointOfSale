@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "ವಾಸ್ತವ ನಗದು",
+        "cashMovement": "ನಗದು ಚಲನೆ",
+        "cashMovements": "ನಗದು ಚಲನೆಗಳು",
         "cashier": "ಕ್ಯಾಷಿಯರ್",
         "expectedCash": "ನಿರೀಕ್ಷಿತ ನಗದು",
         "openingCash": "ಆರಂಭಿಕ ನಗದು",
+        "payment": "ಪಾವತಿ",
+        "payments": "ಪಾವತಿಗಳು",
         "pointOfSale": "ಮಾರಾಟ ಕೇಂದ್ರ",
+        "receipt": "ರಸೀದಿ",
+        "receipts": "ರಸೀದಿಗಳು",
         "register": "ನಗದು ರಿಜಿಸ್ಟರ್",
         "registers": "ನಗದು ರಿಜಿಸ್ಟರ್‌ಗಳು",
         "session": "ರಿಜಿಸ್ಟರ್ ಪಾಳಿ",
-        "sessions": "ರಿಜಿಸ್ಟರ್ ಪಾಳಿಗಳು"
+        "sessions": "ರಿಜಿಸ್ಟರ್ ಪಾಳಿಗಳು",
+        "transaction": "ವಹಿವಾಟು",
+        "transactions": "ವಹಿವಾಟುಗಳು"
     }
 }

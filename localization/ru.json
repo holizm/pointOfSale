@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Фактическая наличность",
+        "cashMovement": "Движение наличных",
+        "cashMovements": "Движения наличных",
         "cashier": "Кассир",
         "expectedCash": "Ожидаемая наличность",
         "openingCash": "Начальная наличность",
+        "payment": "Оплата",
+        "payments": "Платежи",
         "pointOfSale": "Точка продаж",
+        "receipt": "Квитанция",
+        "receipts": "Квитанции",
         "register": "Касса",
         "registers": "Кассы",
         "session": "Кассовая смена",
-        "sessions": "Кассовые смены"
+        "sessions": "Кассовые смены",
+        "transaction": "Транзакция",
+        "transactions": "Транзакции"
     }
 }

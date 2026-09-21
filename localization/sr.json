@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Стварна готовина",
+        "cashMovement": "Кретање готовине",
+        "cashMovements": "Кретања готовине",
         "cashier": "Благајник",
         "expectedCash": "Очекивана готовина",
         "openingCash": "Почетна готовина",
+        "payment": "Плаћање",
+        "payments": "Плаћања",
         "pointOfSale": "Продајно место",
+        "receipt": "Потврда",
+        "receipts": "Потврде",
         "register": "Каса",
         "registers": "Касе",
         "session": "Касирска смена",
-        "sessions": "Касирске смене"
+        "sessions": "Касирске смене",
+        "transaction": "Трансакција",
+        "transactions": "Transakcije"
     }
 }

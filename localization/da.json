@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Faktisk kontantbeholdning",
+        "cashMovement": "Kontantbevægelse",
+        "cashMovements": "Kontantbevægelser",
         "cashier": "Kassemedarbejder",
         "expectedCash": "Forventet kontantbeholdning",
         "openingCash": "Startbeholdning",
+        "payment": "Betaling",
+        "payments": "Betalinger",
         "pointOfSale": "Salgssted",
+        "receipt": "Kvittering",
+        "receipts": "Kvitteringer",
         "register": "Kasse",
         "registers": "Kasser",
         "session": "Kassevagt",
-        "sessions": "Kassevagter"
+        "sessions": "Kassevagter",
+        "transaction": "Transaktion",
+        "transactions": "Transaktioner"
     }
 }

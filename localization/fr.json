@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Espèces réelles",
+        "cashMovement": "Mouvement de caisse",
+        "cashMovements": "Mouvements de caisse",
         "cashier": "Caissier",
         "expectedCash": "Espèces attendues",
         "openingCash": "Fond de caisse initial",
+        "payment": "Paiement",
+        "payments": "Paiements",
         "pointOfSale": "Point de vente",
+        "receipt": "Reçu",
+        "receipts": "Reçus",
         "register": "Caisse",
         "registers": "Caisses",
         "session": "Session de caisse",
-        "sessions": "Sessions de caisse"
+        "sessions": "Sessions de caisse",
+        "transaction": "Transaction",
+        "transactions": "Transactions"
     }
 }

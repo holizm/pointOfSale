@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Tatsächlicher Bargeldbestand",
+        "cashMovement": "Bargeldbewegung",
+        "cashMovements": "Bargeldbewegungen",
         "cashier": "Kassierer",
         "expectedCash": "Erwarteter Bargeldbestand",
         "openingCash": "Anfangsbestand",
+        "payment": "Zahlung",
+        "payments": "Zahlungen",
         "pointOfSale": "Verkaufsstelle",
+        "receipt": "Beleg",
+        "receipts": "Quittungen",
         "register": "Kasse",
         "registers": "Kassen",
         "session": "Kassensitzung",
-        "sessions": "Kassensitzungen"
+        "sessions": "Kassensitzungen",
+        "transaction": "Transaktion",
+        "transactions": "Transaktionen"
     }
 }

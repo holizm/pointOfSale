@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "מזומן בפועל",
+        "cashMovement": "תנועת מזומן",
+        "cashMovements": "תנועות מזומן",
         "cashier": "קופאי",
         "expectedCash": "מזומן צפוי",
         "openingCash": "מזומן בתחילת משמרת",
+        "payment": "תשלום",
+        "payments": "תשלומים",
         "pointOfSale": "נקודת מכירה",
+        "receipt": "קבלה",
+        "receipts": "קבלות",
         "register": "קופה",
         "registers": "קופות",
         "session": "משמרת קופה",
-        "sessions": "משמרות קופה"
+        "sessions": "משמרות קופה",
+        "transaction": "עסקה",
+        "transactions": "עסקאות"
     }
 }

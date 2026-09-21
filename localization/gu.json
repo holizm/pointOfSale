@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "વાસ્તવિક રોકડ",
+        "cashMovement": "રોકડ હિલચાલ",
+        "cashMovements": "રોકડ હિલચાલો",
         "cashier": "કૅશિયર",
         "expectedCash": "અપેક્ષિત રોકડ",
         "openingCash": "પ્રારંભિક રોકડ",
+        "payment": "ચુકવણી",
+        "payments": "ચુકવણીઓ",
         "pointOfSale": "વેચાણ કેન્દ્ર",
+        "receipt": "રસીદ",
+        "receipts": "રસીદો",
         "register": "કૅશ રજિસ્ટર",
         "registers": "કૅશ રજિસ્ટરો",
         "session": "રજિસ્ટર શિફ્ટ",
-        "sessions": "રજિસ્ટર શિફ્ટો"
+        "sessions": "રજિસ્ટર શિફ્ટો",
+        "transaction": "વ્યવહાર",
+        "transactions": "વ્યવહારો"
     }
 }

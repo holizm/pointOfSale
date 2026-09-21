@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Actual cash",
+        "cashMovement": "Cash movement",
+        "cashMovements": "Cash movements",
         "cashier": "Cashier",
         "expectedCash": "Expected cash",
         "openingCash": "Opening cash",
+        "payment": "Payment",
+        "payments": "Payments",
         "pointOfSale": "Point of sale",
+        "receipt": "Receipt",
+        "receipts": "Receipts",
         "register": "Register",
         "registers": "Registers",
         "session": "Register session",
-        "sessions": "Register sessions"
+        "sessions": "Register sessions",
+        "transaction": "Transaction",
+        "transactions": "Transactions"
     }
 }

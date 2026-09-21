@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Fedha halisi",
+        "cashMovement": "Mwendo wa pesa taslimu",
+        "cashMovements": "Miendo ya pesa taslimu",
         "cashier": "Mhudumu wa fedha",
         "expectedCash": "Fedha inayotarajiwa",
         "openingCash": "Fedha za kuanzia",
+        "payment": "Malipo",
+        "payments": "Malipo",
         "pointOfSale": "Sehemu ya mauzo",
+        "receipt": "Risiti",
+        "receipts": "Risiti",
         "register": "Kasha",
         "registers": "Kasha",
         "session": "Zamu ya kasha",
-        "sessions": "Zamu za kasha"
+        "sessions": "Zamu za kasha",
+        "transaction": "Muamala",
+        "transactions": "Miamala"
     }
 }

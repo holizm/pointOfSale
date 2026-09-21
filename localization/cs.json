@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Skutečná hotovost",
+        "cashMovement": "Pohyb hotovosti",
+        "cashMovements": "Pohyby hotovosti",
         "cashier": "Pokladní",
         "expectedCash": "Očekávaná hotovost",
         "openingCash": "Počáteční hotovost",
+        "payment": "Platba",
+        "payments": "Platby",
         "pointOfSale": "Prodejní místo",
+        "receipt": "Účtenka",
+        "receipts": "Potvrzení",
         "register": "Pokladna",
         "registers": "Pokladny",
         "session": "Pokladní směna",
-        "sessions": "Pokladní směny"
+        "sessions": "Pokladní směny",
+        "transaction": "Transakce",
+        "transactions": "Transakce"
     }
 }

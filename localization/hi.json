@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "वास्तविक नकदी",
+        "cashMovement": "नकदी गतिविधि",
+        "cashMovements": "नकदी गतिविधियाँ",
         "cashier": "कैशियर",
         "expectedCash": "अपेक्षित नकदी",
         "openingCash": "आरंभिक नकदी",
+        "payment": "भुगतान",
+        "payments": "भुगतान",
         "pointOfSale": "बिक्री केंद्र",
+        "receipt": "रसीद",
+        "receipts": "रसीदें",
         "register": "कैश रजिस्टर",
         "registers": "कैश रजिस्टर",
         "session": "रजिस्टर शिफ़्ट",
-        "sessions": "रजिस्टर शिफ़्ट"
+        "sessions": "रजिस्टर शिफ़्ट",
+        "transaction": "लेन-देन",
+        "transactions": "लेनदेन"
     }
 }

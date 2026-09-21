@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Numerário real",
+        "cashMovement": "Movimento de caixa",
+        "cashMovements": "Movimentos de caixa",
         "cashier": "Operador de caixa",
         "expectedCash": "Numerário esperado",
         "openingCash": "Fundo de caixa inicial",
+        "payment": "Pagamento",
+        "payments": "Pagamentos",
         "pointOfSale": "Ponto de venda",
+        "receipt": "Recibo",
+        "receipts": "Recibos",
         "register": "Caixa registadora",
         "registers": "Caixas registadoras",
         "session": "Turno de caixa",
-        "sessions": "Turnos de caixa"
+        "sessions": "Turnos de caixa",
+        "transaction": "Transação",
+        "transactions": "Transações"
     }
 }

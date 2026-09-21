@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Фактична готівка",
+        "cashMovement": "Рух готівки",
+        "cashMovements": "Рухи готівки",
         "cashier": "Касир",
         "expectedCash": "Очікувана готівка",
         "openingCash": "Початкова готівка",
+        "payment": "Платіж",
+        "payments": "Платежі",
         "pointOfSale": "Точка продажу",
+        "receipt": "Квитанція",
+        "receipts": "Квитанції",
         "register": "Каса",
         "registers": "Каси",
         "session": "Касова зміна",
-        "sessions": "Касові зміни"
+        "sessions": "Касові зміни",
+        "transaction": "Транзакція",
+        "transactions": "Транзакції"
     }
 }

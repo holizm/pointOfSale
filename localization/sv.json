@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Faktisk kontantbelopp",
+        "cashMovement": "Kontantrörelse",
+        "cashMovements": "Kontantrörelser",
         "cashier": "Kassör",
         "expectedCash": "Förväntat kontantbelopp",
         "openingCash": "Ingående kassa",
+        "payment": "Betalning",
+        "payments": "Betalningar",
         "pointOfSale": "Försäljningsställe",
+        "receipt": "Kvitto",
+        "receipts": "Kvitton",
         "register": "Kassa",
         "registers": "Kassor",
         "session": "Kassapass",
-        "sessions": "Kassapass"
+        "sessions": "Kassapass",
+        "transaction": "Transaktion",
+        "transactions": "Transaktioner"
     }
 }

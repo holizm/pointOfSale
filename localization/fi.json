@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Todellinen käteissaldo",
+        "cashMovement": "Käteisliike",
+        "cashMovements": "Käteisliikkeet",
         "cashier": "Kassanhoitaja",
         "expectedCash": "Odotettu käteissaldo",
         "openingCash": "Alkukassa",
+        "payment": "Maksu",
+        "payments": "Maksut",
         "pointOfSale": "Myyntipiste",
+        "receipt": "Kuitti",
+        "receipts": "Kuitit",
         "register": "Kassa",
         "registers": "Kassat",
         "session": "Kassavuoro",
-        "sessions": "Kassavuorot"
+        "sessions": "Kassavuorot",
+        "transaction": "Tapahtuma",
+        "transactions": "Tapahtumat"
     }
 }

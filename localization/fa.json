@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "وجه نقد واقعی",
+        "cashMovement": "گردش نقدی",
+        "cashMovements": "گردش‌های نقدی",
         "cashier": "صندوقدار",
         "expectedCash": "وجه نقد مورد انتظار",
         "openingCash": "وجه نقد آغازین",
+        "payment": "پرداخت",
+        "payments": "پرداخت‌ها",
         "pointOfSale": "نقطه فروش",
+        "receipt": "رسید",
+        "receipts": "رسیدها",
         "register": "صندوق",
         "registers": "صندوق‌ها",
         "session": "شیفت صندوق",
-        "sessions": "شیفت‌های صندوق"
+        "sessions": "شیفت‌های صندوق",
+        "transaction": "تراکنش",
+        "transactions": "تراکنش‌ها"
     }
 }

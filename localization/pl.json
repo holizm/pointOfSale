@@ -1,13 +1,21 @@
 {
     "common": {
         "actualCash": "Rzeczywista gotówka",
+        "cashMovement": "Ruch gotówki",
+        "cashMovements": "Ruchy gotówki",
         "cashier": "Kasjer",
         "expectedCash": "Oczekiwana gotówka",
         "openingCash": "Gotówka początkowa",
+        "payment": "Płatność",
+        "payments": "Płatności",
         "pointOfSale": "Punkt sprzedaży",
+        "receipt": "Potwierdzenie",
+        "receipts": "Potwierdzenia",
         "register": "Kasa",
         "registers": "Kasy",
         "session": "Zmiana kasowa",
-        "sessions": "Zmiany kasowe"
+        "sessions": "Zmiany kasowe",
+        "transaction": "Transakcja",
+        "transactions": "Transakcje"
     }
 }
