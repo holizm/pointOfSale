@@ -18,7 +18,7 @@ const inputs = <>
         required
     />
     <DateTime
-        placeholder='pointOfSaleOpenedDate'
+        placeholder='coreOpenedDate'
         property='openedDate'
         required
     />

@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "Totalt",
         "actualCash": "Faktisk kontantbeholdning",
         "cashier": "Kasserer",
         "expectedCash": "Forventet kontantbeholdning",
-        "openedDate": "Åpningsdato",
         "openingCash": "Inngående kasse",
         "pointOfSale": "Utsalgssted",
         "register": "Kasse",
         "registers": "Kasser",
         "session": "Kassaskift",
-        "sessions": "Kassaskift",
-        "transactionDate": "Transaksjonsdato",
-        "transactionType": "Transaksjonstype"
+        "sessions": "Kassaskift"
     }
 }

@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "Total",
         "actualCash": "Numerar efectiv",
         "cashier": "Casier",
         "expectedCash": "Numerar estimat",
-        "openedDate": "Data deschiderii",
         "openingCash": "Numerar inițial",
         "pointOfSale": "Punct de vânzare",
         "register": "Casă de marcat",
         "registers": "Case de marcat",
         "session": "Tură de casă",
-        "sessions": "Ture de casă",
-        "transactionDate": "Data tranzacției",
-        "transactionType": "Tipul tranzacției"
+        "sessions": "Ture de casă"
     }
 }

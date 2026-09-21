@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "एकूण",
         "actualCash": "प्रत्यक्ष रोकड",
         "cashier": "रोखपाल",
         "expectedCash": "अपेक्षित रोकड",
-        "openedDate": "उघडण्याची तारीख",
         "openingCash": "आरंभिक रोकड",
         "pointOfSale": "विक्री केंद्र",
         "register": "रोख नोंदणी यंत्र",
         "registers": "रोख नोंदणी यंत्रे",
         "session": "रोख नोंदणी पाळी",
-        "sessions": "रोख नोंदणी पाळ्या",
-        "transactionDate": "व्यवहाराची तारीख",
-        "transactionType": "व्यवहाराचा प्रकार"
+        "sessions": "रोख नोंदणी पाळ्या"
     }
 }

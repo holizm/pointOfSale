@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "合計",
         "actualCash": "実際の現金残高",
         "cashier": "レジ担当者",
         "expectedCash": "想定現金残高",
-        "openedDate": "レジ開始日",
         "openingCash": "開始時現金",
         "pointOfSale": "販売時点情報管理",
         "register": "レジ",
         "registers": "レジ",
         "session": "レジシフト",
-        "sessions": "レジシフト",
-        "transactionDate": "取引日",
-        "transactionType": "取引種別"
+        "sessions": "レジシフト"
     }
 }

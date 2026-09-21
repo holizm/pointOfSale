@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "Ukupno",
         "actualCash": "Stvarna gotovina",
         "cashier": "Blagajnik",
         "expectedCash": "Očekivana gotovina",
-        "openedDate": "Datum otvaranja",
         "openingCash": "Početna gotovina",
         "pointOfSale": "Prodajno mjesto",
         "register": "Blagajna",
         "registers": "Blagajne",
         "session": "Smjena blagajne",
-        "sessions": "Smjene blagajne",
-        "transactionDate": "Datum transakcije",
-        "transactionType": "Vrsta transakcije"
+        "sessions": "Smjene blagajne"
     }
 }

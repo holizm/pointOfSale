@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "Kabuuan",
         "actualCash": "Aktuwal na cash",
         "cashier": "Kahera",
         "expectedCash": "Inaasahang cash",
-        "openedDate": "Petsa ng pagbubukas",
         "openingCash": "Panimulang cash",
         "pointOfSale": "Punto ng bentahan",
         "register": "Cash register",
         "registers": "Mga cash register",
         "session": "Shift ng cash register",
-        "sessions": "Mga shift ng cash register",
-        "transactionDate": "Petsa ng transaksyon",
-        "transactionType": "Uri ng transaksyon"
+        "sessions": "Mga shift ng cash register"
     }
 }

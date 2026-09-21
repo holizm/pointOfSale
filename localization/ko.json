@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "합계",
         "actualCash": "실제 현금",
         "cashier": "계산원",
         "expectedCash": "예상 현금",
-        "openedDate": "개점일",
         "openingCash": "시작 현금",
         "pointOfSale": "판매 시점 관리",
         "register": "금전 등록기",
         "registers": "금전 등록기",
         "session": "계산대 근무 세션",
-        "sessions": "계산대 근무 세션",
-        "transactionDate": "거래일",
-        "transactionType": "거래 유형"
+        "sessions": "계산대 근무 세션"
     }
 }

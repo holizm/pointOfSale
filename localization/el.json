@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "Σύνολο",
         "actualCash": "Πραγματικά μετρητά",
         "cashier": "Ταμίας",
         "expectedCash": "Αναμενόμενα μετρητά",
-        "openedDate": "Ημερομηνία ανοίγματος",
         "openingCash": "Αρχικό ταμείο",
         "pointOfSale": "Σημείο πώλησης",
         "register": "Ταμείο",
         "registers": "Ταμεία",
         "session": "Βάρδια ταμείου",
-        "sessions": "Βάρδιες ταμείου",
-        "transactionDate": "Ημερομηνία συναλλαγής",
-        "transactionType": "Τύπος συναλλαγής"
+        "sessions": "Βάρδιες ταμείου"
     }
 }

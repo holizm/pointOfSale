@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "ਕੁੱਲ",
         "actualCash": "ਅਸਲ ਨਕਦ",
         "cashier": "ਕੈਸ਼ੀਅਰ",
         "expectedCash": "ਉਮੀਦ ਕੀਤੀ ਨਕਦ ਰਕਮ",
-        "openedDate": "ਖੋਲ੍ਹਣ ਦੀ ਮਿਤੀ",
         "openingCash": "ਸ਼ੁਰੂਆਤੀ ਨਕਦ",
         "pointOfSale": "ਵਿਕਰੀ ਕੇਂਦਰ",
         "register": "ਕੈਸ਼ ਰਜਿਸਟਰ",
         "registers": "ਕੈਸ਼ ਰਜਿਸਟਰ",
         "session": "ਰਜਿਸਟਰ ਸ਼ਿਫਟ",
-        "sessions": "ਰਜਿਸਟਰ ਸ਼ਿਫਟਾਂ",
-        "transactionDate": "ਲੈਣ-ਦੇਣ ਦੀ ਮਿਤੀ",
-        "transactionType": "ਲੈਣ-ਦੇਣ ਦੀ ਕਿਸਮ"
+        "sessions": "ਰਜਿਸਟਰ ਸ਼ਿਫਟਾਂ"
     }
 }

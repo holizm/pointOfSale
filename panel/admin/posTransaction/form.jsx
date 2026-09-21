@@ -28,17 +28,17 @@ const inputs = <>
             'return',
             'exchange',
         ]}
-        placeholder='pointOfSaleTransactionType'
+        placeholder='coreTransactionType'
         property='posTransactionType'
         required
     />
     <DateTime
-        placeholder='pointOfSaleTransactionDate'
+        placeholder='coreTransactionDate'
         property='transactionDate'
         required
     />
     <Numeric
-        placeholder='pointOfSaleTotal'
+        placeholder='coreTotal'
         property='total'
         required
     />

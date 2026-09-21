@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "Total",
         "actualCash": "Actual cash",
         "cashier": "Cashier",
         "expectedCash": "Expected cash",
-        "openedDate": "Opened date",
         "openingCash": "Opening cash",
         "pointOfSale": "Point of sale",
         "register": "Register",
         "registers": "Registers",
         "session": "Register session",
-        "sessions": "Register sessions",
-        "transactionDate": "Transaction date",
-        "transactionType": "Transaction type"
+        "sessions": "Register sessions"
     }
 }

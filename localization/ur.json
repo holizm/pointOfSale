@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "کل",
         "actualCash": "اصل نقد رقم",
         "cashier": "کیشیئر",
         "expectedCash": "متوقع نقد رقم",
-        "openedDate": "کھولنے کی تاریخ",
         "openingCash": "ابتدائی نقد رقم",
         "pointOfSale": "فروخت کا مقام",
         "register": "کیش رجسٹر",
         "registers": "کیش رجسٹرز",
         "session": "رجسٹر شفٹ",
-        "sessions": "رجسٹر شفٹس",
-        "transactionDate": "لین دین کی تاریخ",
-        "transactionType": "لین دین کی قسم"
+        "sessions": "رجسٹر شفٹس"
     }
 }

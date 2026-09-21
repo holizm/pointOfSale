@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "Total",
         "actualCash": "Espèces réelles",
         "cashier": "Caissier",
         "expectedCash": "Espèces attendues",
-        "openedDate": "Date d’ouverture",
         "openingCash": "Fond de caisse initial",
         "pointOfSale": "Point de vente",
         "register": "Caisse",
         "registers": "Caisses",
         "session": "Session de caisse",
-        "sessions": "Sessions de caisse",
-        "transactionDate": "Date de transaction",
-        "transactionType": "Type de transaction"
+        "sessions": "Sessions de caisse"
     }
 }

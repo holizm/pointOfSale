@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "Jimilla",
         "actualCash": "Ainihin kuɗin hannu",
         "cashier": "Ma’aji",
         "expectedCash": "Kuɗin hannu da ake sa ran samu",
-        "openedDate": "Ranar buɗewa",
         "openingCash": "Kuɗin fara aiki",
         "pointOfSale": "Wurin sayarwa",
         "register": "Na’urar kuɗi",
         "registers": "Na’urorin kuɗi",
         "session": "Zagayen aiki na na’urar kuɗi",
-        "sessions": "Zagayen aiki na na’urar kuɗi",
-        "transactionDate": "Ranar ciniki",
-        "transactionType": "Nau'in ciniki"
+        "sessions": "Zagayen aiki na na’urar kuɗi"
     }
 }

@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "Общо",
         "actualCash": "Фактическа наличност",
         "cashier": "Касиер",
         "expectedCash": "Очаквана наличност",
-        "openedDate": "Дата на отваряне",
         "openingCash": "Начална наличност",
         "pointOfSale": "Точка на продажба",
         "register": "Каса",
         "registers": "Каси",
         "session": "Касова смяна",
-        "sessions": "Касови смени",
-        "transactionDate": "Дата на транзакцията",
-        "transactionType": "Тип на транзакцията"
+        "sessions": "Касови смени"
     }
 }

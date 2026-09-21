@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "Àpapọ̀",
         "actualCash": "Owó gidi",
         "cashier": "Olùtọ́jú owó",
         "expectedCash": "Owó tí a retí",
-        "openedDate": "Ọjọ́ ìṣí",
         "openingCash": "Owó ìbẹ̀rẹ̀",
         "pointOfSale": "Ibi títà",
         "register": "Ẹ̀rọ ìṣírò owó",
         "registers": "Àwọn ẹ̀rọ ìṣírò owó",
         "session": "Àkókò iṣẹ́ ẹ̀rọ owó",
-        "sessions": "Àwọn àkókò iṣẹ́ ẹ̀rọ owó",
-        "transactionDate": "Ọjọ́ ìdúnàádúrà",
-        "transactionType": "Irú ìdúnàádúrà"
+        "sessions": "Àwọn àkókò iṣẹ́ ẹ̀rọ owó"
     }
 }

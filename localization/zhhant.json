@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "總計",
         "actualCash": "實際現金",
         "cashier": "收銀員",
         "expectedCash": "應有現金",
-        "openedDate": "開班日期",
         "openingCash": "開班現金",
         "pointOfSale": "銷售點",
         "register": "收銀機",
         "registers": "收銀機",
         "session": "收銀班次",
-        "sessions": "收銀班次",
-        "transactionDate": "交易日期",
-        "transactionType": "交易類型"
+        "sessions": "收銀班次"
     }
 }

@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "Total",
         "actualCash": "Efectivo real",
         "cashier": "Cajero",
         "expectedCash": "Efectivo esperado",
-        "openedDate": "Fecha de apertura",
         "openingCash": "Efectivo inicial",
         "pointOfSale": "Punto de venta",
         "register": "Caja registradora",
         "registers": "Cajas registradoras",
         "session": "Turno de caja",
-        "sessions": "Turnos de caja",
-        "transactionDate": "Fecha de transacción",
-        "transactionType": "Tipo de transacción"
+        "sessions": "Turnos de caja"
     }
 }

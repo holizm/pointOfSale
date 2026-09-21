@@ -7,9 +7,9 @@ import Form from './form'
 
 const headers = <>
     <th start>pointOfSaleNumber</th>
-    <th>pointOfSaleTransactionType</th>
-    <th>pointOfSaleTransactionDate</th>
-    <th>pointOfSaleTotal</th>
+    <th>coreTransactionType</th>
+    <th>coreTransactionDate</th>
+    <th>coreTotal</th>
     <th>stateMachinesState</th>
 </>
 

@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "Yhteensä",
         "actualCash": "Todellinen käteissaldo",
         "cashier": "Kassanhoitaja",
         "expectedCash": "Odotettu käteissaldo",
-        "openedDate": "Avauspäivä",
         "openingCash": "Alkukassa",
         "pointOfSale": "Myyntipiste",
         "register": "Kassa",
         "registers": "Kassat",
         "session": "Kassavuoro",
-        "sessions": "Kassavuorot",
-        "transactionDate": "Tapahtumapäivä",
-        "transactionType": "Tapahtumatyyppi"
+        "sessions": "Kassavuorot"
     }
 }

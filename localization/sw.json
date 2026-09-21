@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "Jumla",
         "actualCash": "Fedha halisi",
         "cashier": "Mhudumu wa fedha",
         "expectedCash": "Fedha inayotarajiwa",
-        "openedDate": "Tarehe ya kufungua",
         "openingCash": "Fedha za kuanzia",
         "pointOfSale": "Sehemu ya mauzo",
         "register": "Kasha",
         "registers": "Kasha",
         "session": "Zamu ya kasha",
-        "sessions": "Zamu za kasha",
-        "transactionDate": "Tarehe ya muamala",
-        "transactionType": "Aina ya muamala"
+        "sessions": "Zamu za kasha"
     }
 }

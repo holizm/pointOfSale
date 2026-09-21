@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "စုစုပေါင်း",
         "actualCash": "အမှန်တကယ် ငွေသား",
         "cashier": "ငွေကိုင်",
         "expectedCash": "မျှော်မှန်း ငွေသား",
-        "openedDate": "ဖွင့်သည့်ရက်",
         "openingCash": "စဖွင့် ငွေသား",
         "pointOfSale": "အရောင်းကောင်တာ",
         "register": "ငွေရှင်းစက်",
         "registers": "ငွေရှင်းစက်များ",
         "session": "ငွေရှင်းအဆိုင်း",
-        "sessions": "ငွေရှင်းအဆိုင်းများ",
-        "transactionDate": "ငွေလွှဲရက်",
-        "transactionType": "ငွေလွှဲအမျိုးအစား"
+        "sessions": "ငွေရှင်းအဆိုင်းများ"
     }
 }

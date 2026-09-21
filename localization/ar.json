@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "الإجمالي",
         "actualCash": "النقد الفعلي",
         "cashier": "أمين الصندوق",
         "expectedCash": "النقد المتوقع",
-        "openedDate": "تاريخ فتح الوردية",
         "openingCash": "النقد الافتتاحي",
         "pointOfSale": "نقطة البيع",
         "register": "صندوق البيع",
         "registers": "صناديق البيع",
         "session": "وردية الصندوق",
-        "sessions": "ورديات الصندوق",
-        "transactionDate": "تاريخ المعاملة",
-        "transactionType": "نوع المعاملة"
+        "sessions": "ورديات الصندوق"
     }
 }

@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "Total",
         "actualCash": "Uang tunai aktual",
         "cashier": "Kasir",
         "expectedCash": "Uang tunai yang diharapkan",
-        "openedDate": "Tanggal dibuka",
         "openingCash": "Uang tunai awal",
         "pointOfSale": "Titik penjualan",
         "register": "Mesin kasir",
         "registers": "Mesin kasir",
         "session": "Sesi kasir",
-        "sessions": "Sesi kasir",
-        "transactionDate": "Tanggal transaksi",
-        "transactionType": "Jenis transaksi"
+        "sessions": "Sesi kasir"
     }
 }

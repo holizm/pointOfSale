@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "மொத்தம்",
         "actualCash": "உண்மையான ரொக்கம்",
         "cashier": "காசாளர்",
         "expectedCash": "எதிர்பார்க்கப்படும் ரொக்கம்",
-        "openedDate": "திறந்த தேதி",
         "openingCash": "தொடக்க ரொக்கம்",
         "pointOfSale": "விற்பனை முனையம்",
         "register": "பணப் பதிவேடு",
         "registers": "பணப் பதிவேடுகள்",
         "session": "பணப் பதிவேட்டு பணி நேரம்",
-        "sessions": "பணப் பதிவேட்டு பணி நேரங்கள்",
-        "transactionDate": "பரிவர்த்தனை தேதி",
-        "transactionType": "பரிவர்த்தனை வகை"
+        "sessions": "பணப் பதிவேட்டு பணி நேரங்கள்"
     }
 }

@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "Укупно",
         "actualCash": "Стварна готовина",
         "cashier": "Благајник",
         "expectedCash": "Очекивана готовина",
-        "openedDate": "Датум отварања",
         "openingCash": "Почетна готовина",
         "pointOfSale": "Продајно место",
         "register": "Каса",
         "registers": "Касе",
         "session": "Касирска смена",
-        "sessions": "Касирске смене",
-        "transactionDate": "Датум трансакције",
-        "transactionType": "Врста трансакције"
+        "sessions": "Касирске смене"
     }
 }

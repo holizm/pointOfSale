@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "మొత్తం",
         "actualCash": "వాస్తవ నగదు",
         "cashier": "క్యాషియర్",
         "expectedCash": "అంచనా నగదు",
-        "openedDate": "తెరిచిన తేదీ",
         "openingCash": "ప్రారంభ నగదు",
         "pointOfSale": "విక్రయ కేంద్రం",
         "register": "నగదు రిజిస్టర్",
         "registers": "నగదు రిజిస్టర్లు",
         "session": "రిజిస్టర్ షిఫ్ట్",
-        "sessions": "రిజిస్టర్ షిఫ్ట్‌లు",
-        "transactionDate": "లావాదేవీ తేదీ",
-        "transactionType": "లావాదేవీ రకం"
+        "sessions": "రిజిస్టర్ షిఫ్ట్‌లు"
     }
 }

@@ -1,17 +1,13 @@
 {
     "common": {
-        "total": "Разом",
         "actualCash": "Фактична готівка",
         "cashier": "Касир",
         "expectedCash": "Очікувана готівка",
-        "openedDate": "Дата відкриття",
         "openingCash": "Початкова готівка",
         "pointOfSale": "Точка продажу",
         "register": "Каса",
         "registers": "Каси",
         "session": "Касова зміна",
-        "sessions": "Касові зміни",
-        "transactionDate": "Дата транзакції",
-        "transactionType": "Тип транзакції"
+        "sessions": "Касові зміни"
     }
 }
