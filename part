@@ -25,6 +25,8 @@ posRegister
     place optional
     posRegisterStatus
     unique code
+    uses
+        stateMachines
 posSession
     posRegister
     cashier
@@ -34,6 +36,8 @@ posSession
     expectedCash realNumber optional
     actualCash realNumber optional
     posSessionStatus
+    uses
+        stateMachines
 posTransaction
     number
     posSession
@@ -47,6 +51,8 @@ posTransaction
     total realNumber
     currency
     unique number
+    uses
+        stateMachines
 posPayment
     posTransaction
     payment

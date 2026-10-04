@@ -8,17 +8,17 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='pointOfSaleNumber'
+        placeholder='number'
         property='number'
         required
     />
     <Text
-        placeholder='pointOfSaleSession'
+        placeholder='session'
         property='posSession'
         required
     />
     <Text
-        placeholder='pointOfSaleOrder'
+        placeholder='order'
         property='order'
         required
     />
@@ -28,17 +28,17 @@ const inputs = <>
             'return',
             'exchange',
         ]}
-        placeholder='coreTransactionType'
+        placeholder='transactionType'
         property='posTransactionType'
         required
     />
     <DateTime
-        placeholder='coreTransactionDate'
+        placeholder='transactionDate'
         property='transactionDate'
         required
     />
     <Numeric
-        placeholder='coreTotal'
+        placeholder='total'
         property='total'
         required
     />

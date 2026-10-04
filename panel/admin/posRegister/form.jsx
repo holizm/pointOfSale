@@ -8,12 +8,12 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='pointOfSaleCode'
+        placeholder='code'
         property='code'
         required
     />
     <Text
-        placeholder='pointOfSalePlace'
+        placeholder='place'
         property='place'
     />
     <Select
@@ -22,7 +22,7 @@ const inputs = <>
             'inactive',
             'underMaintenance',
         ]}
-        placeholder='stateMachinesState'
+        placeholder='state'
         property='posRegisterStatus'
         required
     />

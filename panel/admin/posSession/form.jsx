@@ -8,22 +8,22 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='pointOfSaleRegister'
+        placeholder='register'
         property='posRegister'
         required
     />
     <Text
-        placeholder='pointOfSaleCashier'
+        placeholder='cashier'
         property='cashier'
         required
     />
     <DateTime
-        placeholder='coreOpenedDate'
+        placeholder='openedDate'
         property='openedDate'
         required
     />
     <Numeric
-        placeholder='pointOfSaleOpeningCash'
+        placeholder='openingCash'
         property='openingCash'
         required
     />
@@ -33,7 +33,7 @@ const inputs = <>
             'closing',
             'closed',
         ]}
-        placeholder='stateMachinesState'
+        placeholder='state'
         property='posSessionStatus'
         required
     />

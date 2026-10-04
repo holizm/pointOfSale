@@ -3,19 +3,19 @@ export default [
         children: [
             {
                 path: '/pointOfSale/posTransaction/list',
-                title: 'pointOfSaleTransactions',
+                title: 'transactions',
             },
             {
                 path: '/pointOfSale/posSession/list',
-                title: 'pointOfSaleSessions',
+                title: 'sessions',
             },
             {
                 path: '/pointOfSale/posRegister/list',
-                title: 'pointOfSaleRegisters',
+                title: 'registers',
             },
         ],
         icon: 'pointOfSale',
         path: '/pointOfSale',
-        title: 'pointOfSalePointOfSale',
+        title: 'pointOfSale',
     },
 ]
