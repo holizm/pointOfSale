@@ -8,18 +8,16 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='number'
-        property='number'
+        number
         required
     />
     <Text
         placeholder='session'
-        property='posSession'
+        posSession
         required
     />
     <Text
-        placeholder='order'
-        property='order'
+        order
         required
     />
     <Select
@@ -29,18 +27,16 @@ const inputs = <>
             'exchange',
         ]}
         placeholder='transactionType'
-        property='posTransactionType'
+        posTransactionType
         required
     />
     <DateTime
-        placeholder='transactionDate'
-        property='transactionDate'
         required
+        transactionDate
     />
     <Numeric
-        placeholder='total'
-        property='total'
         required
+        total
     />
 </>
 

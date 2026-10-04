@@ -8,14 +8,10 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='code'
-        property='code'
+        code
         required
     />
-    <Text
-        placeholder='place'
-        property='place'
-    />
+    <Text place />
     <Select
         options={[
             'active',
@@ -23,7 +19,7 @@ const inputs = <>
             'underMaintenance',
         ]}
         placeholder='state'
-        property='posRegisterStatus'
+        posRegisterStatus
         required
     />
 </>

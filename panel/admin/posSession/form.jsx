@@ -9,22 +9,19 @@ import {
 const inputs = <>
     <Text
         placeholder='register'
-        property='posRegister'
+        posRegister
         required
     />
     <Text
-        placeholder='cashier'
-        property='cashier'
+        cashier
         required
     />
     <DateTime
-        placeholder='openedDate'
-        property='openedDate'
+        openedDate
         required
     />
     <Numeric
-        placeholder='openingCash'
-        property='openingCash'
+        openingCash
         required
     />
     <Select
@@ -34,7 +31,7 @@ const inputs = <>
             'closed',
         ]}
         placeholder='state'
-        property='posSessionStatus'
+        posSessionStatus
         required
     />
 </>
