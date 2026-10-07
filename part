@@ -63,7 +63,7 @@ posCashMovement
     amount realNumber
     movementDate
     reason optional
-posReceipt
+posReceipt searchable
     posTransaction
     receiptNumber
     issuedDate
