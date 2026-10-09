@@ -1,4 +1,4 @@
-import { Item } from 'core'
+import Item from 'item'
 export default ({ posTransaction }) => <Item class='receipt'>
     <h2 class='number'>{posTransaction.number}</h2>
     <time class='date'>{posTransaction.transactionDate}</time>
